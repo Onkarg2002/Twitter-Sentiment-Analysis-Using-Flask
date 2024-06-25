@@ -13,6 +13,7 @@ Create and activate a virtual environment (optional but recommended):
 
 
 python -m venv venv
+
 On Windows: venv\Scripts\activate
 
 Install the required dependencies:
@@ -23,6 +24,7 @@ pip install -r requirements.txt
 Run the application:
 
 python run.py
+
 Access the web app:
 
 Open your browser and go to http://127.0.0.1:5000
